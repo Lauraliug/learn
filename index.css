@@ -1,0 +1,8 @@
+input {
+    border: dotted 3px black;
+    width: 100px;
+}
+
+select {
+    border: solid 3px black;
+}
